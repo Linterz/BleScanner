@@ -1,6 +1,13 @@
 # BleScanner
 An Android app for Bluetooth Low Energy (BLE) scanning and sniffing with location capabilities.
 
+## Demo Videos
+### BleScanner Sniffer Demo
+[todo]
+
+### BleMapper Demo
+https://github.com/user-attachments/assets/5b61352e-556c-4c6d-858d-978e9fd03af7
+
 ## Features
 - **Bluetooth Scanner**: Discover and scan nearby BLE devices
 - **Bluetooth Sniffer**: Capture BLE traffic with location data
@@ -28,13 +35,6 @@ For advanced analysis and search capabilities, use the exported data with BleMap
 3. Select or drag your exported CBOR file
 
 BleMapper provides enhanced search options and controls for analyzing your BLE data.
-
-## Demo Videos
-### BleScanner Sniffer Demo
-[todo]
-
-### BleMapper Demo
-[todo]
 
 ## Installation
 1. Download the [APK](https://github.com/Linterz/BleScanner/releases)
