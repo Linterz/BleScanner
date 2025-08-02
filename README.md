@@ -3,7 +3,9 @@ An Android app for Bluetooth Low Energy (BLE) scanning and sniffing with locatio
 
 ## Demo Videos
 ### [BleScanner](https://github.com/Linterz/BleScanner/releases) Sniffer Demo
-[todo]
+https://github.com/user-attachments/assets/dc48ebd4-aade-4bbe-979b-9b88a38d97bb
+
+
 
 ### [BleMapper](https://blemapper.pages.dev) Demo
 https://github.com/user-attachments/assets/5b61352e-556c-4c6d-858d-978e9fd03af7
