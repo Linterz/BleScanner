@@ -47,6 +47,9 @@ BleMapper provides enhanced search options and controls for analyzing your BLE d
 - Location permissions (for BLE scanning)
 - Bluetooth permissions
 
+## Data and Privacy concerns
+This suite of apps does not collect any of your personal data (e.g., location and Bluetooth). I understand the concern of having an unsigned APK from a random person is very sketchy. I wish I could publish to the Google Play Store, but I need 20 testers to do so.
+
 ## Credits
 * This project is inspired by [rfparty](https://rfparty.xyz/), but I was unable to build from source, so I created my own version with quality of life improvements
 * Apple Continuity data decryption based on [furiousMAC/continuity](https://github.com/furiousMAC/continuity)
