@@ -3,7 +3,9 @@ An Android app for Bluetooth Low Energy (BLE) scanning and sniffing with locatio
 
 ## Demo Videos
 ### [BleScanner](https://github.com/Linterz/BleScanner/releases) Sniffer Demo
-https://github.com/user-attachments/assets/dc48ebd4-aade-4bbe-979b-9b88a38d97bb
+https://github.com/user-attachments/assets/a36e5dcc-09b0-4da8-a8db-cad4776891e9
+
+
 
 ### [BleMapper](https://blemapper.pages.dev) Demo
 https://github.com/user-attachments/assets/8e1bb9c3-ed33-48bf-b49c-ba9616ba8554
@@ -48,7 +50,7 @@ BleMapper provides enhanced search options and controls for analyzing your BLE d
 - Bluetooth permissions
 
 ## Data and Privacy concerns
-This suite of apps does not collect any of your personal data (e.g., location and Bluetooth), everything is done on the device like exporting and importing CBOR files. I understand the concern of having an unsigned APK from a random person is very sketchy. I wish I could publish to the Google Play Store, but I need 20 testers to do so, if you are interested, let me know.
+This suite of apps does not collect any of your personal data (e.g., location and Bluetooth), everything is done on the device like exporting and importing CBOR files. I understand the concern of having an unsigned APK from a random person is very sketchy. I wish I could publish to the Google Play Store, but I need 20 testers to do so, if you are interested, let me know at linzhi@msu.edu.
 
 ## Credits
 * This project is inspired by [rfparty](https://rfparty.xyz/), but I was unable to build from source, so I created my own version with quality of life improvements
